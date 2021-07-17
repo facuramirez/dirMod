@@ -6,11 +6,11 @@ hacer una pausa antes de pulsar el botón una segunda vez. Por ejemplo, 2 2 indi
 Debes crear un programa que calcule la secuencia de teclas que hay que pulsar para escribir un cierto mensaje.”
 
 ### Ejemplos:
-Input:       Output:
-hi           44 444
-yes          999337777
-foo bar      333666 666022 2777
-hello world  4433555 555666096667775553
+Input:       Output:  
+hi           44 444  
+yes          999337777  
+foo bar      333666 666022 2777  
+hello world  4433555 555666096667775553  
 
 
 ### Bonus track:
